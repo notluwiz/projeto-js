@@ -11,7 +11,7 @@ O objetivo principal deste projeto é praticar o uso do Git para versionamento d
 - HTML
 - CSS
 - JavaScript
-- 
+  
 ## 🧠 O que estou aprendendo
 
 - Comandos básicos e avançados do Git 
